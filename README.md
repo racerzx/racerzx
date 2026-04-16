@@ -27,7 +27,8 @@ __________
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=400&color=ad42f5&background=f6b2be600&width=230&lines='Relax.;'It's+only+unstable-;if+you+touch+the+wrong+wire..';'which,;statistically,;you+will.'" />
 
-BAH
+
+BAH.
 <img width="150" height="20" alt="576086190-31da74dc-3e36-4a22-ba90-1888c8a5d556" src="https://github.com/user-attachments/assets/f5869042-7269-4473-8a55-ee6edec92eaf" />
 
 __________
