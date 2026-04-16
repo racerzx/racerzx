@@ -3,15 +3,23 @@ Vynro:
 
 <img width="150" height="20" alt="a14" src="https://github.com/user-attachments/assets/2b4a5f20-1fd8-40af-aeaf-1edcf6b0d3ad" /> <img width="150" height="20" alt="579273039-d3bc210a-9e20-438c-aa86-60ca087ce0bf" src="https://github.com/user-attachments/assets/1abd4374-38be-43e1-9673-e5808d921eab" />
 
+<img width="150" height="20" alt="576086190-31da74dc-3e36-4a22-ba90-1888c8a5d556" src="https://github.com/user-attachments/assets/f5869042-7269-4473-8a55-ee6edec92eaf" />
+
 __________
 
 Spynro:
+
+
+
+<img width="150" height="20" alt="576086190-31da74dc-3e36-4a22-ba90-1888c8a5d556" src="https://github.com/user-attachments/assets/f5869042-7269-4473-8a55-ee6edec92eaf" />
 
 __________
 
 Ravv:
 
 <img width="20" height="20" alt="Tumblr_l_152145318868098" src="https://github.com/user-attachments/assets/ac896ae2-e6d8-4acc-b642-b722ff605b15" />
+
+<img width="150" height="20" alt="576086190-31da74dc-3e36-4a22-ba90-1888c8a5d556" src="https://github.com/user-attachments/assets/f5869042-7269-4473-8a55-ee6edec92eaf" />
 
 __________
 
