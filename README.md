@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Vynro-X.'" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=50&color=d60f0f&background=f6b2be600&width=230&lines='And,+between+us...;I+trust+you'll+behave...;though+I+won't+lie,;it's+a+bit+tempting;to+see+if+you+can+resist+me,;though+knowing+you,;I+highly+doubt+it';-+Vynro-X." />
 
@@ -22,6 +24,8 @@ __________
 <img width="150" height="20" alt="576086190-31da74dc-3e36-4a22-ba90-1888c8a5d556" src="https://github.com/user-attachments/assets/f5869042-7269-4473-8a55-ee6edec92eaf" />
 
 __________
+
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Ferrari.'" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=50&color=2b95ff&background=f6b2be600&width=230&lines='Either+you're+lying;to+our+lieutenant;and+you+broke+into+HQ;pretending+to+be+Vynro's+brother...;or-+or+something!;Okay;that+sounded;WAY+BETTER;in+my+head.';-+Ferrari." />
 
