@@ -4,8 +4,7 @@
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Vynro-X.'" />
 
-___
-
+  <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
   <p align="center">
@@ -22,8 +21,7 @@ __________
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Spynro.'" />
 
-____
-
+<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
 <p align="center">
@@ -39,8 +37,7 @@ __________
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='Ravv.'" />
 
-___
-
+<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
 <p align="center">
@@ -58,8 +55,7 @@ __________
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Ferrari.'" />
 
-____
-
+<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
   <p align="center">
