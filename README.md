@@ -1,9 +1,22 @@
 
-  <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=30&color=d60f0f&background=f6b2be600&width=230&lines='Vynro-X.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=d60f0f&background=f6b2be600&width=230&lines='Name?'" />
 
   <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='And,+between+us...;I+trust+you'll+behave...;though+I+won't+lie,;it's+a+bit+tempting;to+see+if+you+can+resist+me,;though+knowing+you,;I+highly+doubt+it';-+Vynro-X." />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=d60f0f&background=f6b2be600&width=230&lines='Vynro-X.'" />
+
+___
+
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=d60f0f&background=f6b2be600&width=230&lines='Catchphrase?'" />
+
+  <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Test+of+a+person's+true+value?';'Death.';'Facing+it,+staring+it+down.';'You+still+got+a+chance;to+be+somebody.'" />
+
+___
+
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=d60f0f&background=f6b2be600&width=230&lines='Quote+from+you.'" />
+
+  <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=500&color=d60f0f&background=f6b2be600&width=230&lines='And,+between+us...;I+trust+you'll+behave...;though+I+won't+lie,;it's+a+bit+tempting;to+see+if+you+can+resist+me,;though+knowing+you,;I+highly+doubt+it';-+Vynro-X." />
 
 <img width="150" height="20" alt="a14" src="https://github.com/user-attachments/assets/2b4a5f20-1fd8-40af-aeaf-1edcf6b0d3ad" /> <img width="150" height="20" alt="579273039-d3bc210a-9e20-438c-aa86-60ca087ce0bf" src="https://github.com/user-attachments/assets/1abd4374-38be-43e1-9673-e5808d921eab" />
 
@@ -11,8 +24,19 @@
 
 __________
 
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=ad42f5&background=f6b2be600&width=230&lines='Name?'" />
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Spynro.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Spynro.'" />
+
+____
+
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Catchphrase?'" />
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Relax.;'It's+only+unstable-;if+you+touch+the+wrong+wire..';'which,;statistically,;you+will.'" />
+
+____
 
 
 BAM
@@ -21,9 +45,19 @@ BAM
 
 __________
 
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=79d5e8&background=f6b2be600&width=230&lines='Name?'" />
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='Ravv.'" />
 
+___
+
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='Catchphrase?'" />
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='You+made+it+this+far-;that's+what+matters.';'I'll+handle+the+rest.'" />
+
+___
 
 BAh
 <img width="20" height="20" alt="Tumblr_l_152145318868098" src="https://github.com/user-attachments/assets/ac896ae2-e6d8-4acc-b642-b722ff605b15" />
@@ -32,8 +66,19 @@ BAh
 
 __________
 
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=2b95ff&background=f6b2be600&width=230&lines='Name?'" />
+
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Ferrari.'" />
+
+____
+
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=2b95ff&background=f6b2be600&width=230&lines='Catchphrase?'" />
+
+  <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='If+you+can't+keep+up,;don't+follow!'" />
+
+___
 
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Either+you're+lying;to+our+lieutenant;and+you+broke+into+HQ;pretending+to+be+Vynro's+brother...;or-+or+something!;Okay;that+sounded;WAY+BETTER;in+my+head.';-+Ferrari." />
