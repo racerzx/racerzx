@@ -1,5 +1,5 @@
 
-Vynro:
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines=I+don't+regret+a+thing." />
 
 <img width="150" height="20" alt="a14" src="https://github.com/user-attachments/assets/2b4a5f20-1fd8-40af-aeaf-1edcf6b0d3ad" /> <img width="150" height="20" alt="579273039-d3bc210a-9e20-438c-aa86-60ca087ce0bf" src="https://github.com/user-attachments/assets/1abd4374-38be-43e1-9673-e5808d921eab" />
 
