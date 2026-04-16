@@ -7,7 +7,7 @@
 
 __________
 
-Spynro:
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=b899ff&background=f6b2be600&width=230&lines=Spynro." />
 
 
 
@@ -15,7 +15,7 @@ Spynro:
 
 __________
 
-Ravv:
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines=Ravv." />
 
 <img width="20" height="20" alt="Tumblr_l_152145318868098" src="https://github.com/user-attachments/assets/ac896ae2-e6d8-4acc-b642-b722ff605b15" />
 
@@ -23,7 +23,7 @@ Ravv:
 
 __________
 
-Ferrari:
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines=Ferrari." />
 
 <img width="150" height="20" alt="v3" src="https://github.com/user-attachments/assets/f0694f11-943b-4d1b-abb8-ad2abf42a6cf" /> <img width="150" height="20" alt="v71" src="https://github.com/user-attachments/assets/9eebf13b-6343-47bc-a216-a04c2a114035" /> <img width="150" height="20" alt="l3" src="https://github.com/user-attachments/assets/8e85673d-4471-4378-8cdf-3d7a06ad8dff" /> <img width="157" height="25" alt="v69" src="https://github.com/user-attachments/assets/acf047bd-e80c-4e90-96d6-914d919bfbb9" /> <img width="150" height="20" alt="e31" src="https://github.com/user-attachments/assets/8288edfb-607e-44c7-82d3-6974a614733a" /> <img width="150" height="20" alt="e95" src="https://github.com/user-attachments/assets/b4f88e15-57a1-45cc-b01f-a4f7d4dc569a" /> <img width="150" height="20" alt="e79" src="https://github.com/user-attachments/assets/9a93881d-5e53-496a-8d91-1949cb4661ed" /> <img width="150" height="20" alt="v12" src="https://github.com/user-attachments/assets/cb478a82-87b3-43ca-b389-91070f26fae4" /> <img width="152" height="21" alt="1" src="https://github.com/user-attachments/assets/c1e1e879-94fe-4984-b049-520db278134a" /> <img width="150" height="20" alt="1" src="https://github.com/user-attachments/assets/b4ca50c6-5900-4d16-b016-c8479224cbfc" /> <img width="150" height="20" alt="c45" src="https://github.com/user-attachments/assets/d12fb6eb-6c89-4b5b-95b4-8054f722147d" /> <img width="150" height="20" alt="c27" src="https://github.com/user-attachments/assets/de9053ba-567b-4ac0-b00e-4e910edcc89d" /> 
 
