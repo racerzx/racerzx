@@ -1,19 +1,19 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=d60f0f&background=f6b2be600&width=230&lines='Name?'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Name?'" />
 
   <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=d60f0f&background=f6b2be600&width=230&lines='Vynro-X.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Vynro-X.'" />
 
 ___
 
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=d60f0f&background=f6b2be600&width=230&lines='Catchphrase?'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
   <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Test+of+a+person's+true+value?';'Death.';'Facing+it,+staring+it+down.';'You+still+got+a+chance;to+be+somebody.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=500&color=d60f0f&background=f6b2be600&width=230&lines='Test+of+a+person's+true+value?';'Death.';'Facing+it,+staring+it+down.';'You+still+got+a+chance;to+be+somebody.'" />
 
 ___
 
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=d60f0f&background=f6b2be600&width=230&lines='Quote+from+you.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Quote+from+you.'" />
 
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=500&color=d60f0f&background=f6b2be600&width=230&lines='And,+between+us...;I+trust+you'll+behave...;though+I+won't+lie,;it's+a+bit+tempting;to+see+if+you+can+resist+me,;though+knowing+you,;I+highly+doubt+it';-+Vynro-X." />
@@ -34,7 +34,7 @@ ____
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Relax.;'It's+only+unstable-;if+you+touch+the+wrong+wire..';'which,;statistically,;you+will.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=400&color=ad42f5&background=f6b2be600&width=230&lines='Relax.;'It's+only+unstable-;if+you+touch+the+wrong+wire..';'which,;statistically,;you+will.'" />
 
 ____
 
@@ -45,7 +45,7 @@ BAM
 
 __________
 
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=79d5e8&background=f6b2be600&width=230&lines='Name?'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='Name?'" />
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='Ravv.'" />
@@ -66,14 +66,14 @@ BAh
 
 __________
 
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=2b95ff&background=f6b2be600&width=230&lines='Name?'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Name?'" />
 
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Ferrari.'" />
 
 ____
 
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=200&color=2b95ff&background=f6b2be600&width=230&lines='Catchphrase?'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
   <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='If+you+can't+keep+up,;don't+follow!'" />
