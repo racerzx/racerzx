@@ -16,16 +16,16 @@
 
 <img width="1000" height="5" alt="ed5e815d" src="https://github.com/user-attachments/assets/cdd9e972-c2f5-49fe-a28b-165a5aa4bcdb" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=dbd3ed&background=f6b2be600&width=230&lines='Name?'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=bfa7d6&background=f6b2be600&width=230&lines='Name?'" />
 
  <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=dbd3ed&background=f6b2be600&width=230&lines='Vodka.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=bfa7d6&background=f6b2be600&width=230&lines='Vodka.'" />
   </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=dbd3ed&background=f6b2be600&width=230&lines='Catchphrase?'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=bfa7d6&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=500&color=dbd3ed&background=f6b2be600&width=230&lines='I've+seen+worse+than+this...';'And+I've+seen+it+heal.';'You+will+too.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=500&color=bfa7d6&background=f6b2be600&width=230&lines='I've+seen+worse+than+this...';'And+I've+seen+it+heal.';'You+will+too.'" />
   </div>
 
 <img width="150" height="20" alt="576086190-31da74dc-3e36-4a22-ba90-1888c8a5d556" src="https://github.com/user-attachments/assets/f5869042-7269-4473-8a55-ee6edec92eaf" />
