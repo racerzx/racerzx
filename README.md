@@ -1,15 +1,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Name?'" />
 
-  <p align="center">
+  <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Vynro-X.'" />
+  </div>
 
-  <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
-  <p align="center">
+  <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=500&color=d60f0f&background=f6b2be600&width=230&lines='Test+of+a+person's+true+value?';'Death.';'Facing+it,+staring+it+down.';'You+still+got+a+chance;to+be+somebody.'" />
-
-____
+  </div>
 
 <img width="99" height="56" alt="glitch" src="https://github.com/user-attachments/assets/20ad28bb-94c8-4cf7-8f6e-cf13d40eadc4" /> 
 
@@ -19,16 +18,15 @@ __________
 
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=dbd3ed&background=f6b2be600&width=230&lines='Name?'" />
 
- <p align="center">
+ <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=dbd3ed&background=f6b2be600&width=230&lines='Vodka.'" />
+  </div>
 
-<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=dbd3ed&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
-<p align="center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=3000&pause=500&color=dbd3ed&background=f6b2be600&width=230&lines='I've+seen+worse+than+this...';'And+I've+seen+it+heal.';'You+will+too.'" />
-
-__________
+  </div>
 
 <img width="150" height="20" alt="576086190-31da74dc-3e36-4a22-ba90-1888c8a5d556" src="https://github.com/user-attachments/assets/f5869042-7269-4473-8a55-ee6edec92eaf" />
 
@@ -36,16 +34,15 @@ __________
 
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=15&duration=2000&pause=200&color=ad42f5&background=f6b2be600&width=230&lines='Name?'" />
 
-<p align="center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=15&duration=3000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Spynro.'" />
+  </div>
 
-<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=15&duration=2000&pause=300&color=ad42f5&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
-<p align="center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=15&duration=3000&pause=400&color=ad42f5&background=f6b2be600&width=230&lines='Relax.;'It's+only+unstable-;if+you+touch+the+wrong+wire..';'which,;statistically,;you+will.'" />
-
-______
+  </div>
 
 <img width="99" height="56" alt="dinos" src="https://github.com/user-attachments/assets/bc14b630-55eb-4299-82be-7776aa73ce2d" /> <img width="150" height="20" alt="output_1776442184_7bbdac015dea4f2e9167263f4de8678f" src="https://github.com/user-attachments/assets/a4db2107-d550-46a9-8590-74b3901476c4" /> <img width="150" height="20" alt="576086190-31da74dc-3e36-4a22-ba90-1888c8a5d556" src="https://github.com/user-attachments/assets/f5869042-7269-4473-8a55-ee6edec92eaf" />
 
@@ -53,16 +50,15 @@ __________
 
 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='Name?'" />
 
-<p align="center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='Ravv.'" />
+  </div>
 
-<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
-<p align="center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=15&duration=2000&pause=300&color=79d5e8&background=f6b2be600&width=230&lines='You+made+it+this+far-;that's+what+matters.';'I'll+handle+the+rest.'" />
-
-_____
+  </div>
 
 <img width="99" height="56" alt="nekoatsume" src="https://github.com/user-attachments/assets/a63215b6-9c51-4670-b366-cf0770a5f00f" /> 
 
@@ -72,16 +68,15 @@ __________
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Name?'" />
 
-  <p align="center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Ferrari!!'" />
+  </div>
 
-<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='Catchphrase?'" />
 
-  <p align="center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=15&duration=2000&pause=300&color=2b95ff&background=f6b2be600&width=230&lines='If+you+can't+keep+up,;don't+follow!'" />
-
-_________
+  </div>
 
 <img width="88" height="31" alt="be-gay-now" src="https://github.com/user-attachments/assets/d4d22993-9384-4676-beee-3db9bed5804a" /> 
 
