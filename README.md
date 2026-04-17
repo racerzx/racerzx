@@ -7,7 +7,7 @@ ___________
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Name?'" />
 
   <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Vynro-X.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Commander+Vynro-X.'" />
   </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=d60f0f&background=f6b2be600&width=230&lines='Catchphrase?'" />
@@ -25,7 +25,7 @@ ___________
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=bfa7d6&background=f6b2be600&width=230&lines='Name?'" />
 
  <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=bfa7d6&background=f6b2be600&width=230&lines='Vodka.'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=bfa7d6&background=f6b2be600&width=230&lines='Commander+Vodka.'" />
   </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=bfa7d6&background=f6b2be600&width=230&lines='Catchphrase?'" />
