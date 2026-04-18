@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=946eff&background=f6b2be600&width=230&lines='Introduction+to...';+'The+one+and+only...';'ER+owner+and+founder,';'Leon's+characters!'" />
+<img src="https://readme-typing-svg.demolab.com?font=Radley&size=15&duration=2000&pause=300&color=946eff&background=f6b2be600&width=230&lines='Introduction+to...';+'The+ER+owner+and+founder's-;-characters!'" />
 </div>
 
 ___________
