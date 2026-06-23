@@ -97,7 +97,6 @@ __________
 _________________
 
 <div align="center">
-
-Credit to [PinkiePieExplosion](https://github.com/PinkiePieExplosion) for this ReadMe creation.
-
-</div> 
+  
+Credit to [Shepherd](https://github.com/PinkiePieExplosion) for this ReadMe creation. (this is still a WIP)
+</div>
